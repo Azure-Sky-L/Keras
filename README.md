@@ -7,8 +7,8 @@
 >> 5）训练数据及评估模型<br>
 ### 2.猫狗识别：<br>
 >> 1)对数据进行归一化处理<br>
->> 2)搭建 CNN 网络模型： [[Conv2D->relu]*2 -> MaxPool2D  -> Droupt] -> [[Conv2D->relu]*2 -> MaxPool2D]*3 -> Flatten -> Dense -> Droupot -> Dense
->> 3)Activation: sigmoid; optimizer:optimizer
+>> 2)搭建 CNN 网络模型： [[Conv2D->relu]*2 -> MaxPool2D  -> Droupt] -> [[Conv2D->relu]*2 -> MaxPool2D]*3 -> Flatten -> Dense -> Droupot -> Dense<br>
+>> 3)Activation: sigmoid; optimizer:optimizer<br>
 >> 4）训练数据及评估模型<br>
 ### 3.幼苗识别：<br>
 >> 1) 对数据进行归一化处理<br>
