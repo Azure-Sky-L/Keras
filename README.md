@@ -3,7 +3,7 @@
 >> 1）对数据进行归一化处理<br>
 >> 2）搭建 CNN 网络结构为 : -> [[Conv2D->relu]*2 -> MaxPool2D -> Dropout]*2 -> Flatten -> Dense -> Dropout -> Out <br>
 >> 3) 构建损失函数和优化器 <br>
->> 4) 使用 ImageDataGenerator进行数据扩增： 还不熟悉 ImageDataGenerator参数使用的看这里：https://keras-cn.readthedocs.io/en/latest/preprocess <br>
+>> 4) 使用 ImageDataGenerator进行数据扩增： 还不熟悉 ImageDataGenerator参数使用的看这里：<br>https://keras-cn.readthedocs.io/en/latest/preprocess <br>
 >> 5）训练数据及评估模型<br>
 ### 2.猫狗识别：<br>
 >> 1)对数据进行归一化处理<br>
